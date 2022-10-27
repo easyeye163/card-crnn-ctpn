@@ -50,7 +50,9 @@ python run.py
 
 ## Training
 
-ctpn使用了[text-detection-ctpn](https://github.com/eragonruan/text-detection-ctpn)中的模型，下载ckpt： [googl drive](https://drive.google.com/file/d/1HcZuB_MHqsKhKEKpfF1pEU85CYy4OlWO/view?usp=sharing) or [baidu yun](https://pan.baidu.com/s/1BNHt_9fiqRPGmEXPaxaFXw)
+ctpn模型下载
+链接：https://pan.baidu.com/s/1NSes9QnZo575qd3soklO8A 
+提取码：x09j
 
 将ckpt模型文件保存路径：`ctpn/checkpoints_mlt/`
 
